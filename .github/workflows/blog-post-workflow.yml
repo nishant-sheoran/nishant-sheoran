@@ -12,8 +12,8 @@ jobs:
     name: Update README with latest blog posts
     runs-on: ubuntu-22.04
     steps: 
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@v2.0.0
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
         with: 
           max_post_count: "4"
-          feed_list: hhttps://medium.com/feed/@nishant-sheoran
+          feed_list: https://rss.app/feeds/NDqMHE5aFyl84wZT.xml
