@@ -104,7 +104,6 @@
 <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 30px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishant-sheoran&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=nishant-sheoran&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant-sheoran&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 
@@ -125,21 +124,14 @@
 
 ### 🌐 Connect with Me
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap; margin: 0; padding: 0;">
-  <a href="https://linkedin.com/in/nishant-sheoran" target="_blank" style="margin: 0; padding: 0;">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="display: block; margin: 0; padding: 0;" />
-  </a>
-  <a href="https://medium.com/@nishant-sheoran" target="_blank" style="margin: 0; padding: 0;">
-    <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" style="display: block; margin: 0; padding: 0;" />
-  </a>
-  <a href="https://kaggle.com/nishantsheoran" target="_blank" style="margin: 0; padding: 0;">
-    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" style="display: block; margin: 0; padding: 0;" />
-  </a>
-  <a href="https://www.hackerrank.com/nishant_sheoran" target="_blank" style="margin: 0; padding: 0;">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" style="display: block; margin: 0; padding: 0;" />
-  </a>
-  <a href="https://www.leetcode.com/nishant_sheoran" target="_blank" style="margin: 0; padding: 0;">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" style="display: block; margin: 0; padding: 0;" />
-  </a>
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/nishant-sheoran" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://medium.com/@nishant-sheoran" target="_blank"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+  <a href="https://kaggle.com/nishantsheoran" target="_blank"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
+  <a href="https://www.hackerrank.com/nishant_sheoran" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
+  <a href="https://www.leetcode.com/nishant_sheoran" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a>
+</p>
+
+
+
 
