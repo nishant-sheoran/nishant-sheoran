@@ -5,7 +5,7 @@
 - 🌱 **Learning:** MLops, Kafka.
 - 👯 **Looking to collaborate on:** Health Care Projects.
 - 🤝 **Need help with:** Data Collection for Chemical Compounds Dataset.
-- 📝 **📝 I regularly write articles on:** [Medium](https://nishant-sheoran.medium.com/).
+- 📝 **I regularly write articles on:** [Medium](https://nishant-sheoran.medium.com/).
 - 💬 **Ask me about:** ML & Quantum Computing.
 - 📫 **Reach me at:** sheorannishant@icloud.com.
 - 📄 **Resume:** [View Here](https://drive.google.com/file/d/12sgJ7snn4HcypoNj1hWYTdOdKWWFIRsv/view?usp=sharing).
