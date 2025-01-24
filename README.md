@@ -95,6 +95,7 @@
 ---
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Transforming Retail with Machine Learning: Predicting Future Sales](https://nishant-sheoran.medium.com/transforming-retail-with-machine-learning-predicting-future-sales-fec92fe735b0?source=rss-45443248d491------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
