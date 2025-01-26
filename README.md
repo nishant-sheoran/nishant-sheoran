@@ -2,7 +2,7 @@
 
 ### 🌟 About Me
 - 🔭 **Currently working on:** Something cool :wink:
-- 🌱 **Learning:** MLops, Kafka.
+- 🌱 **Learning:** MLops, Kafka (where data and Metamorphosis coalesce 🪶)
 - 👯 **Looking to collaborate on:** Health Care Projects.
 - 🤝 **Need help with:** Data Collection for Chemical Compounds Dataset.
 - 📝 **I regularly write articles on:** [Medium](https://nishant-sheoran.medium.com/).
