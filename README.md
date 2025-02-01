@@ -2,14 +2,14 @@
 
 ### 🌟 About Me
 - 🔭 **Currently working on:** Something cool :wink:
-- 🌱 **Learning:** MLops, Kafka (where data and Metamorphosis coalesce 🪶)
-- 👯 **Looking to collaborate on:** Health Care Projects.
-- 🤝 **Need help with:** Data Collection for Chemical Compounds Dataset.
+- 🌱 **Learning:** MLOps, Kafka (where data and _Metamorphosis_ coalesce 🪶)
+- 👯 **Looking to collaborate on:** ML-driven healthcare solutions.
+- 🤝 **Need help with:** Curating a high-quality chemical compounds dataset.
 - 📝 **I regularly write articles on:** [Medium](https://nishant-sheoran.medium.com/).
-- 💬 **Ask me about:** ML & Quantum Computing.
+- 💬 **Ask me about:** ML, Quantum Computing and why NP-completeness makes me reconsider my life choices. 🤔
 - 📫 **Reach me at:** sheorannishant@icloud.com.
 - 📄 **Resume:** [View Here](https://drive.google.com/file/d/12sgJ7snn4HcypoNj1hWYTdOdKWWFIRsv/view?usp=sharing).
-- ⚡ **Fun fact:** I think I am funny 🫣.
+- ⚡ **Fun fact:** “To code, or not to code?” ~ Hamlet 😂
 
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
