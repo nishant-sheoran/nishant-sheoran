@@ -121,6 +121,10 @@
 <h3 align="center">When I'm not coding or researching, you'll find me exploring automation ideas or working on my public speaking skills.</h3>
 
 ---
+  
+![3D Contributions](profile-3d-contrib/profile-night-green.svg)
+
+---
 
 ### 🌐 Connect with Me
 
