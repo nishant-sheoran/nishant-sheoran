@@ -99,28 +99,20 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-### 📈 Stats & Streaks
+### 🌌 GitHub Respawn
 
 <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 30px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishant-sheoran&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=nishant-sheoran&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
-
----
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nishant-sheoran&label=Profile%20views&color=green&style=pixel&abbreviated=true" alt="nishant-sheoran" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+    <img alt="GitHub Snake Animation" src="dist/github-snake.svg" />
+  </picture>
 </div>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nishant-sheoran&align=center&margin-w=10&margin-h=10&column=-1&theme=radical&no-frame=true&rank=-?" alt="nishant-sheoran trophies" />
-  </a>
-</div>
-<h3 align="center">When I'm not coding or researching, you'll find me exploring automation ideas or working on my public speaking skills.</h3>
-
----
   
 ![3D Contributions](profile-3d-contrib/profile-night-green.svg)
 
