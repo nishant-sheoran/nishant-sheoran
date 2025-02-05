@@ -101,11 +101,6 @@
 ---
 ### 🌌 GitHub Respawn
 
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 30px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishant-sheoran&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=nishant-sheoran&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
@@ -115,6 +110,10 @@
 </div>
   
 ![3D Contributions](profile-3d-contrib/profile-night-green.svg)
+
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 30px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishant-sheoran&theme=radical" alt="GitHub Streak" />
+</div>
 
 ---
 
