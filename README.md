@@ -5,11 +5,23 @@
 - 🌱 **Learning:** MLOps, Kafka (where data and _Metamorphosis_ coalesce 🪶)
 - 👯 **Looking to collaborate on:** ML-driven healthcare solutions.
 - 🤝 **Need help with:** Curating a high-quality chemical compounds dataset.
-- 📝 **I regularly write articles on:** [Medium](https://nishant-sheoran.medium.com/).
 - 💬 **Ask me about:** ML, Quantum Computing and why NP-completeness makes me reconsider my life choices. 🤔
 - 📫 **Reach me at:** sheorannishant@icloud.com.
 - 📄 **Resume:** [View Here](https://drive.google.com/file/d/12sgJ7snn4HcypoNj1hWYTdOdKWWFIRsv/view?usp=sharing).
 - ⚡ **Fun fact:** “To code, or not to code?” ~ Hamlet 😂
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Transforming Retail with Machine Learning: Predicting Future Sales](https://nishant-sheoran.medium.com/transforming-retail-with-machine-learning-predicting-future-sales-fec92fe735b0?source=rss-45443248d491------2)
+<!-- BLOG-POST-LIST:END -->
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+    <img alt="GitHub Snake Animation" src="svg-files/github-snake.svg" />
+  </picture>
+</div>
 
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
@@ -92,28 +104,17 @@
 
 </details>
 
----
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Transforming Retail with Machine Learning: Predicting Future Sales](https://nishant-sheoran.medium.com/transforming-retail-with-machine-learning-predicting-future-sales-fec92fe735b0?source=rss-45443248d491------2)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 ### 🌌 GitHub Respawn
 
-<div align="center">
+<div align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-    <img alt="GitHub Snake Animation" src="dist/github-snake.svg" />
+    <img alt="Github Stats Animation" src ="svg-files/github_stats.svg" />
   </picture>
 </div>
   
-![3D Contributions](profile-3d-contrib/profile-night-green.svg)
-
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 30px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishant-sheoran&theme=radical" alt="GitHub Streak" />
-</div>
+![3D Contributions](svg-files/profile-night-green.svg)
 
 ---
 
