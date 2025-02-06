@@ -1,0 +1,31 @@
+name: Update SVG from Octo-Stats
+
+on:
+  schedule:
+    - cron: '0 1 * * *'  
+  workflow_dispatch:  
+
+jobs:
+  update-svg:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout main repository
+        uses: actions/checkout@v4
+
+      - name: Create SVG folder
+        run: mkdir -p svg-files
+
+      - name: Fetch SVG files from octo-stats
+        run: |
+          curl -o svg-files/github-snake.svg https://raw.githubusercontent.com/nishant-sheoran/octo-stats/main/dist/github-snake.svg
+          curl -o svg-files/profile-night-green.svg https://raw.githubusercontent.com/nishant-sheoran/octo-stats/main/profile-3d-contrib/profile-night-green.svg
+          curl -o svg-files/github_stats.svg https://raw.githubusercontent.com/nishant-sheoran/octo-stats/main/github_stats.svg
+
+      - name: Commit & Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add svg-files/*
+          git commit -m "Updated SVG files from octo-stats on $(date)" || echo "No changes to commit"
+          git push
