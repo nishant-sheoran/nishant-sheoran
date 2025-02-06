@@ -21,7 +21,7 @@ jobs:
         run: npm install axios chalk --no-save
 
       - name: Fetch GitHub Stats and Generate SVG
-        run: node update-stats.js ${{ github.repository_owner }}
+        run: node src/update-stats.js ${{ github.repository_owner }}
 
       - name: Update Template with Hacker Theme
         run: |
