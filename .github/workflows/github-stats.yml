@@ -25,7 +25,7 @@ jobs:
 
       - name: Update Template with Hacker Theme
         run: |
-          node updater.js ${{ github.repository_owner }} hacker
+          node src/updater.js ${{ github.repository_owner }} hacker
 
       - name: Commit and Push Changes
         run: |
