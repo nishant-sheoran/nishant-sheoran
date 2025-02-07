@@ -110,13 +110,11 @@
 ---
 ### 🌌 GitHub Respawn
 
-<div align="left">
+<div align="center">
   <picture>
     <img alt="Github Stats Animation" src ="svg-files/github_stats.svg" />
   </picture>
 </div>
-  
-![3D Contributions](svg-files/profile-night-green.svg)
 
 ---
 
@@ -130,6 +128,7 @@
   <a href="https://www.leetcode.com/nishant_sheoran" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a>
 </p>
 
+![3D Contributions](svg-files/profile-night-green.svg)
 
 
 
