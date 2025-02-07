@@ -23,6 +23,8 @@
   </picture>
 </div>
 
+![](https://komarev.com/ghpvc/?username=nishant-sheoran&style=pixel)
+
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
   <br/>
