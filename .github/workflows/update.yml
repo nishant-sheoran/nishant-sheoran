@@ -2,7 +2,7 @@ name: Update SVG from Octo-Stats
 
 on:
   schedule:
-    - cron: '0 1 * * *'  
+    - cron: '5 0 * * *'  
   workflow_dispatch:  
 
 jobs:
@@ -19,6 +19,7 @@ jobs:
       - name: Fetch SVG files from octo-stats
         run: |
           curl -o svg-files/github-snake.svg https://raw.githubusercontent.com/nishant-sheoran/octo-stats/main/dist/github-snake.svg
+          curl -o svg-files/github-snake-dark.svg https://raw.githubusercontent.com/nishant-sheoran/octo-stats/main/dist/github-snake-dark.svg
           curl -o svg-files/profile-night-green.svg https://raw.githubusercontent.com/nishant-sheoran/octo-stats/main/profile-3d-contrib/profile-night-green.svg
           curl -o svg-files/github_stats.svg https://raw.githubusercontent.com/nishant-sheoran/octo-stats/main/github_stats.svg
 
