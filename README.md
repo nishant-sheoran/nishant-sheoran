@@ -23,7 +23,7 @@
   </picture>
 </div>
 
-![](https://komarev.com/ghpvc/?username=nishant-sheoran&style=pixel&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=nishant-sheoran&style=plastic&color=brightgreen)
 
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
