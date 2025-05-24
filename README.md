@@ -6,10 +6,10 @@
 - 👯 **Looking to collaborate on:** ML-driven healthcare solutions.
 - 🤝 **Need help with:** Curating a high-quality chemical compounds dataset.
 - 💬 **Ask me about:** ML, Quantum Computing and why NP-completeness makes me reconsider my life choices. 🤔
-- 📫 **Reach me at:** sheorannishant@icloud.com.
-- 📄 **Resume:** [View Here](https://drive.google.com/file/d/12sgJ7snn4HcypoNj1hWYTdOdKWWFIRsv/view?usp=sharing).
+- 📫 **Reach me at:** w.nishantsheoran@gmail.com.
+- 🌐 **Portfolio:** [View Here](nishant.is-a.dev)
 - ⚡ **Fun fact:** “To code, or not to code?” ~ Hamlet 😂
-
+<!-- 📄 **Resume:** [View Here](https://drive.google.com/file/d/12sgJ7snn4HcypoNj1hWYTdOdKWWFIRsv/view?usp=sharing). -->
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Transforming Retail with Machine Learning: Predicting Future Sales](https://nishant-sheoran.medium.com/transforming-retail-with-machine-learning-predicting-future-sales-fec92fe735b0?source=rss-45443248d491------2)
