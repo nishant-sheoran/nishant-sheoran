@@ -12,6 +12,7 @@
 <!-- 📄 **Resume:** [View Here](https://drive.google.com/file/d/12sgJ7snn4HcypoNj1hWYTdOdKWWFIRsv/view?usp=sharing). -->
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Git-Powered, Multi-Repo Content Pipeline with ISR &amp; Zero Vendor Lock-in](https://nishant-sheoran.medium.com/building-a-git-powered-multi-repo-content-pipeline-with-isr-zero-vendor-lock-in-983b91a21e57?source=rss-45443248d491------2)
 - [Transforming Retail with Machine Learning: Predicting Future Sales](https://nishant-sheoran.medium.com/transforming-retail-with-machine-learning-predicting-future-sales-fec92fe735b0?source=rss-45443248d491------2)
 <!-- BLOG-POST-LIST:END -->
 
