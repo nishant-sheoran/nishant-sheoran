@@ -6,7 +6,6 @@
 - 👯 **Looking to collaborate on:** ML-driven healthcare solutions.
 - 🤝 **Need help with:** Curating a high-quality chemical compounds dataset.
 - 💬 **Ask me about:** ML, Quantum Computing and why NP-completeness makes me reconsider my life choices. 🤔
-- 📫 **Reach me at:** w.nishantsheoran@gmail.com.
 - 🌐 **Portfolio:** [View Here](https://nishant.is-a.dev/)
 - ⚡ **Fun fact:** “To code, or not to code?” ~ Hamlet 😂
 <!-- 📄 **Resume:** [View Here](https://drive.google.com/file/d/12sgJ7snn4HcypoNj1hWYTdOdKWWFIRsv/view?usp=sharing). -->
